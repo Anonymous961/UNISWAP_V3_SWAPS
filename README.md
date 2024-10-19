@@ -72,5 +72,5 @@ uniswap-v3-swaps/
 
 ## Acknowledgements
 
-1. (Uniswap V3)[https://app.uniswap.org/]
-2. (The Graph)[https://thegraph.com/]
+1. [Uniswap V3](https://app.uniswap.org/)
+2. [The Graph](https://thegraph.com/)
